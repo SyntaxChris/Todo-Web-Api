@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SyntaxChris/react-redux-express-boiler.git"
+    "url": "git+https://github.com/SyntaxChris/Todo-Web-Api.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SyntaxChris/react-redux-express-boiler/issues"
+    "url": "https://github.com/SyntaxChris/Todo-Web-Api/issues"
   },
-  "homepage": "https://github.com/SyntaxChris/react-redux-express-boiler#readme",
+  "homepage": "https://github.com/SyntaxChris/Todo-Web-Api#readme",
   "devDependencies": {
     "babel-core": "^6.8.0",
     "babel-loader": "^6.2.4",

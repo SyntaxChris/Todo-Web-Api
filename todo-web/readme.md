@@ -15,13 +15,13 @@
 Clone Repo
 
 ````
-git clone https://github.com/SyntaxChris/react-redux-express-boiler
+git clone https://github.com/SyntaxChris/Todo-Web-Api
 ````
 
 npm install dependencies
 
 ````
-cd express-react-redux-starter 
+cd todo-web
 
 npm install
 ````

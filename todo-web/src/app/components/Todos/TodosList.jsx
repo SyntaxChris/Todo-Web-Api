@@ -65,10 +65,10 @@ const mapStateToProps = (state) => ({
 
 const mapDispatchToProps = (dispatch) => ({
   onToggleClick(id, status){
-    dispatch(toggleTodo(id, status, dispatch));
+    dispatch(toggleTodo(...arguments, dispatch));
   },
   onDeleteClick(id){
-    deleteTodo(id, dispatch);
+    deleteTodo(...arguments, dispatch);
   },
   fetchTodos(){
     fetchTodos(dispatch);
